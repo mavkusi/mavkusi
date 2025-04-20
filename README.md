@@ -2,7 +2,7 @@
 <h3 align="left">I'm passionate about health research and innovation.</h3>
 
 - 🔭 I’m currently working on mental health research.
-- 🌱 I’m currently learning data science.
+- 🌱 I’m presently learning data science.
 - ⚡ Fun fact: One of my hobbies is food blogging.
 
 <h3 align="left">Connect with me:</h3>
