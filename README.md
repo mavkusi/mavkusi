@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mavis</h1>
-<h4 align="left">I'm a research scientist who's passionate about advancing healthcare.</h4>
+<h3 align="left">I'm a research scientist who's passionate about advancing healthcare.</h3>
 
 - 🌱 I’m currently learning data science.
-- ⚡ Fun fact: I run a food blog as a hobby.
+- ⚡ Fun fact: One of my hobbies is food blogging.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
