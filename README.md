@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mavis</h1>
+<h1 align="center">Hi, I'm Mavis 👋</h1>
 <h3 align="left">I'm passionate about health research and innovation.</h3>
 
 <h4 align="left">- 🔭 I’m currently working on mental health research.</h4>
