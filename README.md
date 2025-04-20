@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mavis</h1>
-<h3 align="center">A research scientist who's passionate about health innovation.</h3>
-
-- 🔭 I’m currently working on **mental health research.**
+<h1 align="center">Hi I'm Mavis</h1>
+<h3 align="center">I'm passionate about health research and innovation.</h3>
 
 - 🌱 I’m currently learning **data science.**
-
-- 📫 How to reach me **https://www.linkedin.com/in/maviskusi**
-
-- ⚡ Fun fact **one of my hobbies is food blogging.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
